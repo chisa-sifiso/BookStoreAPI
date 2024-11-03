@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>BookStoreAPI</title>
-</head>
 <body>
 
 <h1>📚 BookStoreAPI</h1>
@@ -29,10 +22,6 @@
 </ul>
 
 <h3>Steps to Run</h3>
-<ol>
-  <li>Clone the repository:
-    <pre><code>git clone https://github.com/your-username/BookStoreAPI.git</code></pre>
-  </li>
   <li>Open the project in IntelliJ IDEA.</li>
   <li>Run the application.</li>
   <li>Access the API at <code>http://localhost:8080/api/books</code>.</li>
